@@ -6,4 +6,7 @@ pydantic
 python-dotenv
 faiss-cpu
 openai
+langchain-community
+langchain-core
+langchain-huggingface
 
